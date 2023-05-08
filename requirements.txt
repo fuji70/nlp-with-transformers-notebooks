@@ -20,3 +20,5 @@ scikit-multilearn
 # Chapter 10 - Pretraining
 psutil
 accelerate
+# additional
+sacremoses
